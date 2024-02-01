@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/odz/bin/env bash
 # Usage: script/test
 set -e
 
